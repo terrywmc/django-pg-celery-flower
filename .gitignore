@@ -1,0 +1,8 @@
+.vscode
+.git
+Pipfile.lock
+celerybeat*
+__pycache__
+app
+postgres_data
+pgadmin_data
